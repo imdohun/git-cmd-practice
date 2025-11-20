@@ -1,9 +1,9 @@
-#GIT command lesson
+# GIT command lesson
 
--ADD
--COMMIT
--PUSH
--MERGE
--RESET
--TAG
--REVERT
+* add
+* commit
+* push
+* merge
+* reset
+* tag
+* revert
