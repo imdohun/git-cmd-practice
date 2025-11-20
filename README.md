@@ -3,7 +3,7 @@
 * done add
 * done commit
 * done push
-* merge
+* done  merge
 * reset
-* tag
-* revert
+* done  tag
+* done  revert
