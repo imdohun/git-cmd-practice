@@ -1,8 +1,8 @@
 # GIT command lesson
 
-* add
-* commit
-* push
+* done add
+* done commit
+* done push
 * merge
 * reset
 * tag
